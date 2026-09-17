@@ -1,0 +1,8 @@
+Easy7Seg595	KEYWORD1
+begin	KEYWORD2
+print	KEYWORD2
+dotLeft	KEYWORD2
+dotRight	KEYWORD2
+rawLeft	KEYWORD2
+rawRight	KEYWORD2
+clear	KEYWORD2
